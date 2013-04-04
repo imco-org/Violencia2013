@@ -13,7 +13,7 @@ widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 github:
   user: EduardoClark
-  repo: IMCOFebrero
+  repo: Violencia2013
   
   
 ---
@@ -926,7 +926,7 @@ Proyección Abril 2013:<br><br>
 ---
 
 ## Serie Ajustada por Estacionalidad
-# 2006-2013
+# 1997-2013
 
 
 ```{r, echo=FALSE, message=FALSE, results='asis'}
@@ -962,6 +962,8 @@ print(A1, tag="chart")
 ```
 
 ---
+
+
 
 
 

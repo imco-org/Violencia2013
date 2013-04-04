@@ -13,7 +13,7 @@ widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 github:
   user: EduardoClark
-  repo: IMCOFebrero
+  repo: Violencia2013
   
   
 ---
@@ -926,18 +926,18 @@ Proyección Abril 2013:<br><br>
 ---
 
 ## Serie Ajustada por Estacionalidad
-# 2006-2013
+# 1997-2013
 
 
 <!-- AnnotatedTimeLine generated in R 2.15.3 by googleVis 0.4.2 package -->
-<!-- Wed Apr  3 18:55:13 2013 -->
+<!-- Wed Apr  3 18:59:08 2013 -->
 
 
 <!-- jsHeader -->
 <script type="text/javascript">
  
 // jsData 
-function gvisDataAnnotatedTimeLineID72f768f5cc60 () {
+function gvisDataAnnotatedTimeLineID72f7701ef498 () {
   var data = new google.visualization.DataTable();
   var datajson =
 [
@@ -2115,8 +2115,8 @@ return(data);
 }
  
 // jsDrawChart
-function drawChartAnnotatedTimeLineID72f768f5cc60() {
-  var data = gvisDataAnnotatedTimeLineID72f768f5cc60();
+function drawChartAnnotatedTimeLineID72f7701ef498() {
+  var data = gvisDataAnnotatedTimeLineID72f7701ef498();
   var options = {};
 options["width"] =    900;
 options["height"] =    300;
@@ -2130,7 +2130,7 @@ options["min"] =   1000;
 options["thickness"] =      1;
 
      var chart = new google.visualization.AnnotatedTimeLine(
-       document.getElementById('AnnotatedTimeLineID72f768f5cc60')
+       document.getElementById('AnnotatedTimeLineID72f7701ef498')
      );
      chart.draw(data,options);
     
@@ -2154,9 +2154,9 @@ options["thickness"] =      1;
     pkgs.push(chartid);
 
   // Add the drawChart function to the global list of callbacks
-  callbacks.push(drawChartAnnotatedTimeLineID72f768f5cc60);
+  callbacks.push(drawChartAnnotatedTimeLineID72f7701ef498);
 })();
-function displayChartAnnotatedTimeLineID72f768f5cc60() {
+function displayChartAnnotatedTimeLineID72f7701ef498() {
   var pkgs = window.__gvisPackages = window.__gvisPackages || [];
   var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];
   window.clearTimeout(window.__gvisLoad);
@@ -2180,16 +2180,18 @@ function displayChartAnnotatedTimeLineID72f768f5cc60() {
  </script>
  
 <!-- jsChart -->  
-<script type="text/javascript" src="https://www.google.com/jsapi?callback=displayChartAnnotatedTimeLineID72f768f5cc60"></script>
+<script type="text/javascript" src="https://www.google.com/jsapi?callback=displayChartAnnotatedTimeLineID72f7701ef498"></script>
  
 <!-- divChart -->
   
-<div id="AnnotatedTimeLineID72f768f5cc60"
+<div id="AnnotatedTimeLineID72f7701ef498"
   style="width: 900px; height: 300px;">
 </div>
 
 
 ---
+
+
 
 
 
